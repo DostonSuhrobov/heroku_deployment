@@ -5,7 +5,7 @@
   "main": "http_server.js",
   "scripts": {
     "build":"npm install",
-    "test": "node http_server.js"
+    "start": "node http_server.js"
   },
   "engines":{
     "node":"14.x"
